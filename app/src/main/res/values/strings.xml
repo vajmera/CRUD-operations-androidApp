@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MySqlDemo</string>
+    <string name="CustomerName">CustomerName</string>
+    <string name="Age">Age</string>
+    <string name="ActiveCustomer">ActiveCustomer</string>
+    <string name="Add">Add</string>
+    <string name="ViewAll">ViewAll</string>
+</resources>
