@@ -1,4 +1,4 @@
-# dbBegin
+# This app demonstrates the basic Create,Read,Update,Delete operations using sqlite database.
 
 
 
