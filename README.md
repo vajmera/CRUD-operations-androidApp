@@ -1,6 +1,7 @@
 # CRUD
 This app demonstrates the basic Create,Read,Update,Delete operations using sqlite database.
 
+Features to be added: To prevent SQL injection in search function, need to use [PreparedStatement](https://docs.oracle.com/javase/tutorial/jdbc/basics/prepared.html) object.
 <div align="center">
 <table>
   <tr>
