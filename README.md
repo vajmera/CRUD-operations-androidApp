@@ -25,10 +25,14 @@ This app demonstrates the basic Create,Read,Update,Delete operations using sqlit
     <td>AddedUsers</td>
      <td>SearchingUserByName</td>
     
+  <tr>
+    <td><img src="images/AddedUsers.jpg" width=200 ></td>
+    <td><img src="images/Searching.jpg" width=200 ></td>
+    
   </tr>
-  </div>
-<br/><br/>
-<br/><br/>
+ </table>
+
+</div>
 <br/><br/>
 
 
