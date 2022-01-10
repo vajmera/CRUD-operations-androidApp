@@ -19,8 +19,7 @@ Features to be added: To prevent SQL injection in search function, need to use [
   
  Layout is simply created using XML. An ArrayAdapter also has been used , to display the database.
  
- 
- ![image](https://user-images.githubusercontent.com/51504937/147343046-50cdf4a6-f2ac-43d6-b0e3-8d98ffbc1ea8.png)
+
  
  <br/><br/>
  ![image](https://user-images.githubusercontent.com/51504937/147343879-fd383aeb-1021-430a-af15-aa20610ed03d.png)
